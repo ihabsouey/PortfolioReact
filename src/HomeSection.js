@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function HomeSection() {
   return (
-    <div className="hero id=home">
+    <div className="hero" id="home">
         <div className="container-fluid">
             <div className="row align-items-center">
                 <div className="col-sm-12 col-md-6">

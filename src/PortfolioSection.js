@@ -16,7 +16,7 @@ export default function PortfolioSection() {
               <div className="col-lg-4 col-md-6 col-sm-12 portfolio-item filter-3 wow fadeInUp"
                 data-wow-delay="0.4s" key={id}>
                 <div className="portfolio-wrap">
-                  <div className="portfolio-img"><img src={image} alt="Image" />
+                  <div className="portfolio-img"><img src={image} alt={title} />
                     <p className="portfolio-img-description">{description}</p>
                   </div>
                   <div className="portfolio-text">

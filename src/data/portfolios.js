@@ -1,16 +1,16 @@
 const portfolios = [
     {
         id: "1",
-        title: "Restaurant Website",
+        title: "Kitchen Website",
         description : "A Restaurant Website Created Using HTML CSS And Bootstrap",
         image: "img/Resteau.webP",
-        link: "https://ihabsouey.github.io/Ristorante-con-Fusion/",
+        link: "https://ihabsouey.github.io/Kitchen-Website/",
     },
     {
         id: "2",
         title: "Restaurant Website With React",
         description : "A Restaurant Website Deployed Using React And An external  API ",
-        image: "img/Resteau.webP",
+        image: "img/ResteauReact.webP",
         link: "https://ihabsouey.github.io/Ristorante-con-Fusion-with-react/",
     },
     {
@@ -24,7 +24,7 @@ const portfolios = [
         id: "4",
         title : "Countries List",
         description : "A Website To Display All The Countries In The World And Search Any Other Country Deployed Using React And An API",
-        image: "img/country.webP",
+        image: "img/countries.webP",
         link: "https://ihabsouey.github.io/Countries-List/",
     },
     {
@@ -39,7 +39,7 @@ const portfolios = [
         id: "6",
         title : "Store Responsive Website",
         description : "A Store Website Created Using HTML CSS",
-        image: "img/todo.webP",
+        image: "img/vegan.webP",
         link: "https://ihabsouey.github.io/Vegan-Store-Responsive-Website/",
     },
     
@@ -47,14 +47,14 @@ const portfolios = [
         id: "7",
         title : "Smart Watch Selection Website",
         description : "A Copy Of An Amazon Page To Select The Color Or The Features Of A SmartWatch Using HTML , CSS And JS " ,
-        image: "img/todo.webP",
+        image: "img/watch.webP",
         link: "https://ihabsouey.github.io/smartWatch/",
     },
     {
         id: "8",
         title : "Simple Js Calculator",
         description : "A Simple Calculator Created Using HTML CSS And JS",
-        image: "img/todo.webP",
+        image: "img/calculator.webP",
         link: "https://ihabsouey.github.io/Calculator/",
 
     },
@@ -62,7 +62,7 @@ const portfolios = [
         id: "9",
         title : "Time Tracking Dashboard",
         description : "Time Tracking Dashboard To Display Daily , Weekly Or Monthly Report",
-        image: "img/todo.webP",
+        image: "img/time-track.webP",
         link: "https://ihabsouey.github.io/Time-tracking-dashboard/",
         
     },
@@ -70,10 +70,24 @@ const portfolios = [
         id: "10",
         title : "Advice Generator",
         description : "A React Application That displays Randomly Advices  generated  From An API",
-        image: "img/todo.webP",
+        image: "img/advice.webP",
         link: "https://ihabsouey.github.io/Advice-generator/",
         
-    }
+    },
+    {
+        id: "11",
+        title : "MasterMind ",
+        description : "A MasterMind Game Created Using HTML CSS And JS",
+        image: "img/mastermind.webP",
+        link: "https://ihabsouey.github.io/MasterMind-number/",
+    },
+    {
+        id: "12",
+        title : "GuessTheNumber",
+        description : "A Guess The Number Game Created Using HTML CSS And JS",
+        image: "img/GuessTheNumber.webP",
+        link: "https://ihabsouey.github.io/GuessTheNumber/",
+    },
 
 ]
 export default portfolios
