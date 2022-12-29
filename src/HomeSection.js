@@ -14,7 +14,7 @@ export default function HomeSection() {
                             <div className="typed-text">Web Developer, Front End Developer</div>
                         </div>
                         <div className="hero-btn"><a className="btn" href="mailto:ihab.souey@gmail.com?subject=Hiring">Hire
-                                Me</a><a className="btn" href="cv/cv-ihabSouey.pdf" download="SoueyIhabCV">Download my
+                                Me</a><a className="btn" href="../public/cv/cv-ihabSouey.pdf" download="SoueyIhabCV">Download my
                                 CV</a></div>
                     </div>
                 </div>

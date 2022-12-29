@@ -24,7 +24,7 @@ const portfolios = [
         id: "4",
         title : "Countries List",
         description : "A Website To Display All The Countries In The World And Search Any Other Country Deployed Using React And An API",
-        image: "img/countries.webP",
+        image: "img/Countries.webP",
         link: "https://ihabsouey.github.io/Countries-List/",
     },
     {
@@ -54,7 +54,7 @@ const portfolios = [
         id: "8",
         title : "Simple Js Calculator",
         description : "A Simple Calculator Created Using HTML CSS And JS",
-        image: "img/calculator.webP",
+        image: "img/Calculator.webP",
         link: "https://ihabsouey.github.io/Calculator/",
 
     },
@@ -78,7 +78,7 @@ const portfolios = [
         id: "11",
         title : "MasterMind ",
         description : "A MasterMind Game Created Using HTML CSS And JS",
-        image: "img/mastermind.webP",
+        image: "img/MasterMind.webP",
         link: "https://ihabsouey.github.io/MasterMind-number/",
     },
     {
